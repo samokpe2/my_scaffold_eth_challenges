@@ -1,5 +1,7 @@
 # my_scaffold_eth_challenges
 
+https://speedrunethereum.com/builders/0x9F6Dd51f7a18Ce5D6FaFF9e5d3e5764Cca61cC44
+
 My Challenge 0 Submissions
 http://sam-nft1.surge.sh/
 https://rinkeby.etherscan.io/address/0xb13822b1261b9143fe1b6B1c9B4b0Ba258C5F5dc
